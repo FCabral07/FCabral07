@@ -22,4 +22,5 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-![FCabral07](https://github-readme-stats.vercel.app/api/top-langs/?username=FCabral07&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCabral07&layout=compact)
+
